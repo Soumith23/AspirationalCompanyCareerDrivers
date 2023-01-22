@@ -1,2 +1,3 @@
-# Glassdoor-reviews-topic-modelling
-This repository is for the group project developed as part of the Unstructured Data course pursued in the Masters program in Business Analytics from The University of Texas at Austin, McCombs School of Business.  It deals with applying Topic Modellling using Latent Dirichlet Allocation on reviews data obtained from Glassdoor. This project was built by Akhila Guttikonda, Sai Bhargav Tetali, Shubhadha Kapre, Soumith Palreddy and Srividya Rayaprolu. Reviews of 20 selected companies have been obtained from glassdoor which has pros and cons separately. Topics across 20 companies reviews have been identified and for each company topic distributions have been obtained.
+# Aspirational Company Career Drivers - Topic Modelling (Latent Dirichlet Allocation)
+Scraped 20k Glassdoor company reviews across various industries,transformed them to vectors and performed LDA topic modelling to derive the top
+3 pros and cons in terms of 4 career drivers – which could help in increasing the employee retention rate by 18%
